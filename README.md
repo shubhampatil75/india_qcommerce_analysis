@@ -103,7 +103,9 @@ jupyter notebook notebooks/02_SQL_Analytics.ipynb
 
 ## 👤 Author
 **Shubham Patil** — Data Science & Analytics
-📧 shubhampatil752002@gmail.com · 🔗 linkedin.com/in/shubham-patil-340aa5272 · 🐙 github.com/shubhampatil75
+📧 [shubhampatil752002@gmail.com](mailto:shubhampatil752002@gmail.com) ·
+🔗 [LinkedIn](https://linkedin.com/in/shubham-patil-340aa5272) ·
+🐙 [GitHub](https://github.com/shubhampatil75)
 
 ## 📜 License
 MIT License — see [LICENSE](LICENSE)
