@@ -1,4 +1,4 @@
-# # 🛒 India Q-Commerce Dark Store EDA (2015–2025)
+# 🛒 India Q-Commerce Dark Store EDA (2015–2025)
 ### From Dunzo's Bengaluru-only Origins to Blinkit's 50%+ Market Dominance
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
