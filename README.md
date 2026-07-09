@@ -37,7 +37,7 @@ The SQL notebook is a **companion**, not a duplicate — it validates the same r
 | File | Rows | Notes |
 |---|---|---|
 | `qcommerce_orders_2015.csv` → `_2025.csv` | 1,00,000 → 25,00,000 | One file per year | 
-| **Total** | **1,00,00,000 rows** | 36 columns |
+| **Total** | **1,00,00,000 rows** | 34 columns |
 
 > 📦 **Data not included in this repo** (total size 2.29 GB, exceeds GitHub's 100MB/file limit). Download from: **[ADD YOUR KAGGLE/DRIVE LINK HERE]**
 
