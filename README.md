@@ -63,7 +63,7 @@ The SQL notebook is a **companion**, not a duplicate — it validates the same r
 
 ## 🗂️ Repo Structure
 ```
-qcommerce-darkstore-eda/
+india_qcommerce_analysis/
 ├── notebooks/
 │   ├── DarkStore_QCommerce_EDA_Project.ipynb   ← Python EDA (12 phases)
 │   └── 02_SQL_Analytics.ipynb                   ← SQL + Python (33 queries, MySQL)
@@ -71,8 +71,7 @@ qcommerce-darkstore-eda/
 ├── visuals/          ← charts saved from the EDA notebook
 ├── data/             ← place downloaded CSVs here (gitignored)
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ## 🚀 How to Run
