@@ -22,7 +22,7 @@ Two rounds of fact-checking against actual industry history were applied to the 
 | Notebook | Purpose |
 |---|---|
 | **`notebooks/DarkStore_QCommerce_EDA_Project.ipynb`** | Full Python EDA — 12 phases, cleaning, feature engineering, univariate/time-series/geographic/behavioural analysis, 20+ charts (Matplotlib/Seaborn/Plotly) |
-| **`notebooks/02_SQL_Analytics.ipynb`** | Python + MySQL integration — 33 SQL queries (Basic → Intermediate → Advanced → Validation) run directly from Jupyter via `sqlalchemy` + `pymysql`, results rendered as DataFrames inline |
+| **`notebooks/02_SQL_Analytics.ipynb`** | Python + MySQL integration — 32 SQL queries (Basic → Intermediate → Advanced → Validation) run directly from Jupyter via `sqlalchemy` + `pymysql`, results rendered as DataFrames inline |
 
 The SQL notebook is a **companion**, not a duplicate — it validates the same real-world corrections (city tier, COVID spike) using pure SQL (`RANK`, `DENSE_RANK`, `NTILE`, `LAG`, CTEs, rolling windows) and adds RFM-style / promo-effectiveness / MNAR-proof queries on top.
 
@@ -65,9 +65,9 @@ The SQL notebook is a **companion**, not a duplicate — it validates the same r
 ```
 india_qcommerce_analysis/
 ├── notebooks/
-│   ├── DarkStore_QCommerce_EDA_Project.ipynb   ← Python EDA (12 phases)
-│   └── 02_SQL_Analytics.ipynb                   ← SQL + Python (33 queries, MySQL)
-├── outputs/          ← 33 SQL query results (CSV), auto-generated on run
+│   ├── 01_SQL_Analytics.ipynb                    ← SQL + Python (33 queries, MySQL) 
+│   └── 02_QCommerce_EDA.ipynb                    ← Python EDA (12 phases)
+├── outputs/          ← 32 SQL query results (CSV), auto-generated on run
 ├── visuals/          ← charts saved from the EDA notebook
 ├── data/             ← place downloaded CSVs here (gitignored)
 ├── README.md
