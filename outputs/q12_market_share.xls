@@ -1,0 +1,37 @@
+year,app,app_orders,market_share_pct
+2015,Dunzo Daily,100000,100.0
+2016,Dunzo Daily,150000,100.0
+2017,Dunzo Daily,200000,100.0
+2018,Dunzo Daily,250000,100.0
+2019,Dunzo Daily,192504,55.0
+2019,Amazon Fresh,157496,45.0
+2020,Dunzo Daily,247491,45.0
+2020,Amazon Fresh,165262,30.05
+2020,Swiggy Instamart,137247,24.95
+2021,Dunzo Daily,280101,28.01
+2021,Swiggy Instamart,239916,23.99
+2021,Blinkit,219950,22.0
+2021,Amazon Fresh,130461,13.05
+2021,Zepto,79714,7.97
+2021,BigBasket BB Now,49858,4.99
+2022,Blinkit,490259,35.02
+2022,Swiggy Instamart,363645,25.97
+2022,Zepto,307702,21.98
+2022,Dunzo Daily,111809,7.99
+2022,BigBasket BB Now,84335,6.02
+2022,Amazon Fresh,42250,3.02
+2023,Blinkit,687833,42.99
+2023,Zepto,448735,28.05
+2023,Swiggy Instamart,382639,23.91
+2023,BigBasket BB Now,64563,4.04
+2023,Dunzo Daily,16230,1.01
+2024,Blinkit,856230,45.06
+2024,Zepto,540184,28.43
+2024,Swiggy Instamart,410946,21.63
+2024,BigBasket BB Now,55646,2.93
+2024,Flipkart Minutes,36994,1.95
+2025,Blinkit,1213008,48.52
+2025,Zepto,656906,26.28
+2025,Swiggy Instamart,484976,19.4
+2025,BigBasket BB Now,72918,2.92
+2025,Flipkart Minutes,72192,2.89

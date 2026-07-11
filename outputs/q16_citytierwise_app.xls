@@ -1,0 +1,16 @@
+city_tier,app,total_orders,app_rank
+Tier 1,Blinkit,501007,1
+Tier 1,Zepto,316413,2
+Tier 1,Swiggy Instamart,241189,3
+Tier 1,BigBasket BB Now,32726,4
+Tier 1,Flipkart Minutes,21785,5
+Tier 2,Blinkit,211564,1
+Tier 2,Zepto,133568,2
+Tier 2,Swiggy Instamart,101581,3
+Tier 2,BigBasket BB Now,13677,4
+Tier 2,Flipkart Minutes,8937,5
+Tier 3,Blinkit,70599,1
+Tier 3,Zepto,44425,2
+Tier 3,Swiggy Instamart,33679,3
+Tier 3,BigBasket BB Now,4573,4
+Tier 3,Flipkart Minutes,3134,5

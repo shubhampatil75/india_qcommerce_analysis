@@ -1,0 +1,8 @@
+app,total_orders,total_revenue_rs,avg_order_value_rs,share_pct
+Blinkit,3171081,2128554896.0,733.6,34.72
+Zepto,1859220,1248093904.0,733.6,20.35
+Swiggy Instamart,1846301,1192535176.0,706.01,20.21
+Dunzo Daily,1407148,631916410.0,490.64,15.41
+Amazon Fresh,451347,234166394.0,566.87,4.94
+BigBasket BB Now,299048,193467722.0,707.04,3.27
+Flipkart Minutes,99956,70879082.0,775.95,1.09

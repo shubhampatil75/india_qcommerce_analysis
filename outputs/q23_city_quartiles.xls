@@ -1,0 +1,21 @@
+city,city_tier,total_revenue,quartile,revenue_segment
+Mumbai,Tier 1,542124366.0,1,Q1 — Top 25 percent
+Chennai,Tier 1,541408531.0,1,Q1 — Top 25 percent
+Bengaluru,Tier 1,541166201.0,1,Q1 — Top 25 percent
+Kolkata,Tier 1,541092131.0,1,Q1 — Top 25 percent
+Delhi,Tier 1,541042407.0,1,Q1 — Top 25 percent
+Pune,Tier 1,540759891.0,2,Q2 — Upper Mid 25 percent
+Hyderabad,Tier 1,540543343.0,2,Q2 — Upper Mid 25 percent
+Ahmedabad,Tier 1,540053799.0,2,Q2 — Upper Mid 25 percent
+Surat,Tier 2,155278272.0,2,Q2 — Upper Mid 25 percent
+Indore,Tier 2,155265783.0,2,Q2 — Upper Mid 25 percent
+Chandigarh,Tier 2,155131290.0,3,Q3 — Lower Mid 25 percent
+Nagpur,Tier 2,154727160.0,3,Q3 — Lower Mid 25 percent
+Lucknow,Tier 2,154617055.0,3,Q3 — Lower Mid 25 percent
+Kochi,Tier 2,154301657.0,3,Q3 — Lower Mid 25 percent
+Jaipur,Tier 2,153492286.0,3,Q3 — Lower Mid 25 percent
+Varanasi,Tier 3,58088857.0,4,Q4 — Bottom 25 percent
+Meerut,Tier 3,57819110.0,4,Q4 — Bottom 25 percent
+Jodhpur,Tier 3,57702121.0,4,Q4 — Bottom 25 percent
+Vijayawada,Tier 3,57510959.0,4,Q4 — Bottom 25 percent
+Mysuru,Tier 3,57488366.0,4,Q4 — Bottom 25 percent

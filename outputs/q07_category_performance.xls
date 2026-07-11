@@ -1,0 +1,11 @@
+category,total_orders,total_revenue_rs,avg_order_value_rs,avg_items_per_order
+Electronics,912785,579857120.0,694.24,3.5
+Groceries & Staples,914877,570052559.0,681.0,3.5
+Beauty & Skincare,914994,569856558.0,680.46,3.5
+Personal Care,913404,569003826.0,680.82,3.5
+Fruits & Vegetables,912565,568940763.0,681.3,3.5
+Household,913995,568897723.0,680.38,3.5
+Baby Products,913785,568740289.0,680.3,3.5
+Medicines,913409,568269793.0,680.08,3.5
+Dairy & Eggs,911876,568242735.0,680.87,3.5
+Snacks & Beverages,912411,567752217.0,680.05,3.5

@@ -1,0 +1,23 @@
+year,period_type,total_orders,avg_aov_rs,avg_discount_rs
+2015,Festive Season,524,742.79,63.79
+2015,Normal Period,99476,266.1,23.2
+2016,Festive Season,810,825.39,73.76
+2016,Normal Period,149190,326.04,28.44
+2017,Festive Season,1123,938.14,75.06
+2017,Normal Period,198877,384.75,33.52
+2018,Festive Season,1348,964.19,79.73
+2018,Normal Period,248652,442.67,38.75
+2019,Festive Season,1902,1071.73,90.94
+2019,Normal Period,348098,500.71,43.86
+2020,Festive Season,2841,1171.34,105.62
+2020,Normal Period,547159,559.98,48.98
+2021,Festive Season,5034,1173.05,102.94
+2021,Normal Period,994966,612.51,53.6
+2022,Festive Season,7587,1206.13,105.05
+2022,Normal Period,1392413,659.97,57.68
+2023,Festive Season,8729,1229.04,109.7
+2023,Normal Period,1591271,702.24,61.53
+2024,Festive Season,10625,1256.24,110.86
+2024,Normal Period,1889375,744.15,65.18
+2025,Festive Season,13462,1286.16,114.6
+2025,Normal Period,2486538,787.11,69.08

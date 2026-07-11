@@ -1,0 +1,10 @@
+city_tier,app,total_orders,order_rank
+Tier 1,Blinkit,547914,1
+Tier 1,Zepto,345688,2
+Tier 1,Swiggy Instamart,263207,3
+Tier 2,Blinkit,231158,1
+Tier 2,Zepto,145997,2
+Tier 2,Swiggy Instamart,110900,3
+Tier 3,Blinkit,77158,1
+Tier 3,Zepto,48499,2
+Tier 3,Swiggy Instamart,36839,3

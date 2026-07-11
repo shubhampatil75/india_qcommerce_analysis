@@ -1,0 +1,4 @@
+period,total_orders,avg_orders_per_month
+Pre-lockdown (Jan-Feb),55747,27874.0
+Lockdown (Mar-Jun),244449,61112.0
+Post-lockdown (Jul-Dec),249804,41634.0

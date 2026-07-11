@@ -1,0 +1,30 @@
+app,year,avg_aov,prev_aov,aov_change,aov_trend
+Amazon Fresh,2020,563.71,502.95,60.76,↑ Rising
+Amazon Fresh,2021,616.36,563.71,52.65,↑ Rising
+Amazon Fresh,2022,663.7,616.36,47.34,↑ Rising
+BigBasket BB Now,2022,661.73,615.12,46.61,↑ Rising
+BigBasket BB Now,2023,704.73,661.73,43.0,↑ Rising
+BigBasket BB Now,2024,749.73,704.73,45.0,↑ Rising
+BigBasket BB Now,2025,791.32,749.73,41.59,↑ Rising
+Blinkit,2022,663.71,615.58,48.13,↑ Rising
+Blinkit,2023,704.71,663.71,41.0,↑ Rising
+Blinkit,2024,747.22,704.71,42.51,↑ Rising
+Blinkit,2025,789.73,747.22,42.51,↑ Rising
+Dunzo Daily,2016,328.56,268.26,60.3,↑ Rising
+Dunzo Daily,2017,387.72,328.56,59.16,↑ Rising
+Dunzo Daily,2018,445.52,387.72,57.8,↑ Rising
+Dunzo Daily,2019,504.24,445.52,58.72,↑ Rising
+Dunzo Daily,2020,562.37,504.24,58.13,↑ Rising
+Dunzo Daily,2021,614.9,562.37,52.53,↑ Rising
+Dunzo Daily,2022,663.23,614.9,48.33,↑ Rising
+Dunzo Daily,2023,703.89,663.23,40.66,↑ Rising
+Flipkart Minutes,2025,790.39,747.75,42.64,↑ Rising
+Swiggy Instamart,2021,614.74,563.08,51.66,↑ Rising
+Swiggy Instamart,2022,662.48,614.74,47.74,↑ Rising
+Swiggy Instamart,2023,705.21,662.48,42.73,↑ Rising
+Swiggy Instamart,2024,747.15,705.21,41.94,↑ Rising
+Swiggy Instamart,2025,789.46,747.15,42.31,↑ Rising
+Zepto,2022,662.05,614.75,47.3,↑ Rising
+Zepto,2023,705.27,662.05,43.22,↑ Rising
+Zepto,2024,745.82,705.27,40.55,↑ Rising
+Zepto,2025,790.58,745.82,44.76,↑ Rising

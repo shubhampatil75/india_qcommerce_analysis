@@ -1,0 +1,6 @@
+app,total_orders,total_gmv_rs,avg_aov_rs,avg_del_min,cancel_rate_pct,avg_rating,avg_discount_rs
+Blinkit,856230,585625712.0,747.39,24.1,6.65,3.99,65.39
+Zepto,540184,368707515.0,746.03,24.1,6.62,3.99,65.41
+Swiggy Instamart,410946,280899098.0,747.09,24.1,6.56,3.99,65.48
+BigBasket BB Now,55646,38151840.0,749.47,24.1,6.52,3.99,65.88
+Flipkart Minutes,36994,25319364.0,748.18,24.2,6.7,3.99,65.72

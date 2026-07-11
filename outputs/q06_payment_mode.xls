@@ -1,0 +1,66 @@
+year,payment_mode,orders,pct_of_year
+2015,Cash on Delivery,81952,82.0
+2015,Wallet,7055,7.1
+2015,Debit Card,6975,7.0
+2015,Credit Card,2972,3.0
+2015,Buy Now Pay Later,1046,1.0
+2016,Cash on Delivery,109300,72.9
+2016,Wallet,18189,12.1
+2016,Debit Card,11979,8.0
+2016,Credit Card,5938,4.0
+2016,Buy Now Pay Later,3117,2.1
+2016,UPI,1477,1.0
+2017,Cash on Delivery,129763,64.9
+2017,Wallet,28034,14.0
+2017,Debit Card,18258,9.1
+2017,Credit Card,9949,5.0
+2017,UPI,9932,5.0
+2017,Buy Now Pay Later,4064,2.0
+2018,Cash on Delivery,144971,58.0
+2018,Wallet,32610,13.0
+2018,UPI,25083,10.0
+2018,Debit Card,25007,10.0
+2018,Credit Card,12525,5.0
+2018,Buy Now Pay Later,9804,3.9
+2019,Cash on Delivery,175010,50.0
+2019,UPI,76855,22.0
+2019,Wallet,35210,10.1
+2019,Debit Card,34943,10.0
+2019,Credit Card,17579,5.0
+2019,Buy Now Pay Later,10403,3.0
+2020,Cash on Delivery,231164,42.0
+2020,UPI,164826,30.0
+2020,Wallet,49274,9.0
+2020,Debit Card,44186,8.0
+2020,Buy Now Pay Later,32897,6.0
+2020,Credit Card,27653,5.0
+2021,UPI,380494,38.0
+2021,Cash on Delivery,379342,37.9
+2021,Wallet,80046,8.0
+2021,Debit Card,70107,7.0
+2021,Credit Card,49989,5.0
+2021,Buy Now Pay Later,40022,4.0
+2022,UPI,616557,44.0
+2022,Cash on Delivery,419486,30.0
+2022,Buy Now Pay Later,111957,8.0
+2022,Wallet,98463,7.0
+2022,Debit Card,83815,6.0
+2022,Credit Card,69722,5.0
+2023,UPI,767612,48.0
+2023,Cash on Delivery,448541,28.0
+2023,Buy Now Pay Later,111466,7.0
+2023,Wallet,96110,6.0
+2023,Credit Card,95899,6.0
+2023,Debit Card,80372,5.0
+2024,UPI,1006613,53.0
+2024,Cash on Delivery,456012,24.0
+2024,Credit Card,132787,7.0
+2024,Buy Now Pay Later,113794,6.0
+2024,Wallet,95670,5.0
+2024,Debit Card,95124,5.0
+2025,UPI,1449300,58.0
+2025,Cash on Delivery,501150,20.0
+2025,Credit Card,199230,8.0
+2025,Buy Now Pay Later,149960,6.0
+2025,Debit Card,100388,4.0
+2025,Wallet,99972,4.0

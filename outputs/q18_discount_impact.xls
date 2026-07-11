@@ -1,0 +1,5 @@
+discount_bucket,total_orders,avg_gross_order_value_rs,avg_net_order_value_rs,avg_delivery_time_min
+₹1–50 Discount,1283218,465.41,433.32,27.6
+₹51–150 Discount,2460929,638.03,545.42,26.3
+No Discount,3984857,681.64,681.64,26.4
+₹150+ Discount,1405097,957.49,772.25,25.4

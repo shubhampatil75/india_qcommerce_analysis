@@ -1,0 +1,8 @@
+app,total_orders,cancelled,returned,cancel_rate_pct
+Dunzo Daily,1548135,112181.0,28806.0,7.25
+Amazon Fresh,495469,34943.0,9179.0,7.05
+BigBasket BB Now,327320,22145.0,6127.0,6.77
+Swiggy Instamart,2019369,135682.0,37386.0,6.72
+Blinkit,3467280,231603.0,64596.0,6.68
+Zepto,2033241,135715.0,38306.0,6.67
+Flipkart Minutes,109186,7235.0,1995.0,6.63

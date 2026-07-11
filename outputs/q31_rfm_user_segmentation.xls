@@ -1,0 +1,4 @@
+user_type,avg_lifetime_orders,avg_days_since_last_order,avg_order_value_rs
+Premium User,115.0,7.5,699.04
+Returning User,22.0,30.5,689.78
+New User,,,634.16

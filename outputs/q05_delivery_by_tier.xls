@@ -1,0 +1,4 @@
+city_tier,avg_delivery_min,fastest_delivery_min,slowest_delivery_min,delivered_orders
+Tier 3,23.7,5.0,134.9,567042
+Tier 2,24.4,5.0,128.1,1799487
+Tier 1,27.1,5.0,136.7,6767572
