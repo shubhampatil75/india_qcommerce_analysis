@@ -39,7 +39,7 @@ The SQL notebook is a **companion**, not a duplicate — it validates the same r
 | `qcommerce_orders_2015.csv` → `_2025.csv` | 1,00,000 → 25,00,000 | One file per year | 
 | **Total** | **1,00,00,000 rows** | 34 columns |
 
-> 📦 **Data not included in this repo** (total size 2.29 GB, exceeds GitHub's 100MB/file limit). Download from: **[ADD YOUR KAGGLE/DRIVE LINK HERE]**
+> 📦 **Data not included in this repo** (total size 2.29 GB, exceeds GitHub's 100MB/file limit). Download from: **[https://www.kaggle.com/datasets/shubhampatil75/india-q-commerce-orders-dataset-2015-2025]**
 
 ### Key Columns
 `order_id` · `date/year/month/day/hour` · `app` · `city` · `city_tier` · `category` · `order_amount_rs` · `discount_rs` · `payment_mode` · `delivery_slot` · `delivery_time_min` · `order_status` · `customer_rating` · `customer_lifetime_orders` · `days_since_last_order` · `promo_code_used` · `estimated_delivery_distance_km`
